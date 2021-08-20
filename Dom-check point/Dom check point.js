@@ -66,3 +66,9 @@ function update(tatal){
     tatal+=(parseFloat(document.getElementById("in1").value)*55)+(parseFloat(document.getElementById("in2").value)*100)+(parseFloat(document.getElementById("in3").value)*250)+(parseFloat(document.getElementById("in4").value)*300)+(parseFloat(document.getElementById("in5").value)*200)+(parseFloat(document.getElementById("in6").value)*215)
     document.getElementById("Total").innerHTML=tatal
 }
+// fuction purchase(){
+//     alert("thank you for your purchase")
+// }
+function purchase(){
+    alert("Thank you ")
+}
